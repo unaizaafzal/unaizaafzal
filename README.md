@@ -1,5 +1,7 @@
-## Hi there 👋
-
+### unaizaafzal/README.md
+👋 Hi, I’m @unaizaafzal
+🌱 I’m currently working as an Applied AI Engineer.
+I care about engineering away everyday human friction.
 <!--
 **unaizaafzal/unaizaafzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
