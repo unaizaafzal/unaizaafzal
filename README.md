@@ -1,4 +1,3 @@
-### unaizaafzal/README.md
 * 👋 Hi, I’m @unaizaafzal
 * 🌱 I’m currently working as an Applied AI Engineer.
 * I care about engineering away everyday human friction.
