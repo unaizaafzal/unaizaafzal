@@ -1,6 +1,6 @@
 * Hi, I’m @unaiza
 * I’m currently working as an Applied AI Engineer.
-* I like working in computer vision.
+* I like working with computer vision.
 <!--
 **unaizaafzal/unaizaafzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
