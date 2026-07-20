@@ -1,6 +1,6 @@
-* 👋 Hi, I’m @unaizaafzal
-* 🌱 I’m currently working as an Applied AI Engineer.
-* I care about engineering away everyday human friction.
+* Hi, I’m @unaiza
+* I’m currently working as an Applied AI Engineer.
+* I like working in computer vision.
 <!--
 **unaizaafzal/unaizaafzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
