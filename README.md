@@ -1,4 +1,5 @@
-* Hi, I’m @unaiza, an Applied AI Engineer
+* hi, i’m @unaiza, an applied ai engineer
+unaiza [dot] co
 <!--
 **unaizaafzal/unaizaafzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
